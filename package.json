@@ -1,27 +1,27 @@
 {
-  "_from": "doctoc@^1.4.0",
-  "_id": "zsh-doctoc@1.4.0",
+  "_from": "doctoc@^2.1.0",
+  "_id": "zsh-doctoc@2.1.0",
   "_inBundle": false,
   "_location": "/zsh-doctoc",
   "_phantomChildren": {},
   "_requested": {
     "type": "range",
     "registry": true,
-    "raw": "doctoc@^1.4.0",
+    "raw": "doctoc@^2.1.0",
     "name": "doctoc",
     "escapedName": "doctoc",
-    "rawSpec": "^1.4.0",
+    "rawSpec": "^2.1.0",
     "saveSpec": null,
-    "fetchSpec": "^1.4.0"
+    "fetchSpec": "^2.1.0"
   },
   "_requiredBy": [],
-  "_spec": "doctoc@^1.4.0",
+  "_spec": "doctoc@^2.1.0",
   "_where": "/root/github2/pkg-doctoc",
   "author": "Thorsten Lorenz",
   "bugs": {
     "url": "https://github.com/thlorenz/doctoc/issues"
   },
-  "version": "1.4.1",
+  "version": "2.1.0",
   "contributors": [],
   "dependencies": {},
   "deprecated": false,
@@ -41,9 +41,9 @@
   "name": "zsh-doctoc",
   "zsh-data": {
     "plugin-info": {
-      "user": "zdharma",
+      "user": "z-shell",
       "plugin": "null",
-      "version": "1.4.0",
+      "version": "2.1.0",
       "requires": "npm;bgn"
     },
     "zplugin-ices": {
