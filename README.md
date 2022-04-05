@@ -13,21 +13,6 @@
 
 </h3>
 
-- [Available `pack''` invocations](#available-pack-invocations)
-- [Default Profile](#default-profile)
-
-> This repository compatible with [ZI](https://github.com/z-shell/zi)
-
-The [thlorenz/doctoc](https://github.com/thlorenz/doctoc) zsh package than can use the NPM package registry to automatically:
-
--   get the plugin's Git repository OR release-package URL,
--   get the list of the recommended ices for the plugin,
-    -   there can be multiple lists of ices,
-    -   the ice lists are stored in _profiles_; there's at least one profile, _default_,
-    -   the ices can be selectively overridden.
-
-# Install
-
 ## Available `pack''` invocations
 
 [thlorenz/doctoc](https://github.com/thlorenz/doctoc) by using the [bin-gem-node](https://github.com/z-shell/z-a-bin-gem-node) annex:
@@ -50,3 +35,15 @@ The ZI command executed will be equivalent to:
 zi lucid as=null node="!doctoc" sbin="n:node_modules/.bin/doctoc" for \
     z-shell/null
 ```
+
+---
+
+> This repository compatible with [ZI](https://github.com/z-shell/zi)
+
+The [thlorenz/doctoc](https://github.com/thlorenz/doctoc) zsh package that can use the NPM package registry to automatically:
+
+-   get the plugin's Git repository OR release-package URL,
+-   get the list of the recommended ices for the plugin,
+    -   there can be multiple lists of ices,
+    -   the ice lists are stored in _profiles_; there's at least one profile, _default_,
+    -   the ices can be selectively overridden.
