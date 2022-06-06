@@ -25,7 +25,7 @@
 zi pack for doctoc
 ```
 
-## Default Profile
+## Default profile
 
 Provides the CLI command `doctoc`.
 
