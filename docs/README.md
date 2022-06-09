@@ -1,17 +1,29 @@
-<div align="center"><table><tr><td>
-<h1><a href="https://github.com/z-shell/zi">
-  <img align="center" src="https://github.com/z-shell/zi/raw/main/docs/images/logo.svg" alt="Logo" width="60px" height="60px" /></a>
-    ❮ ZI ❯ Package - Doctoc </h1>
-<h2><p> Generates table of contents for markdown files inside local git repository. </p></h2>
+<table><tr><td>
+<h1 align="center"><a href="https://github.com/z-shell/zi">
+  </p><img align="center" src="https://github.com/z-shell/zi/raw/main/docs/images/logo.svg" alt="Logo" width="60px" height="60px" /></a>
+  ❮ ZI ❯ Package - Doctoc </p></h1>
+<h2 align="center"><p> Generates table of contents for markdown files inside local git repository </p></h2>
 <h3 align="center">
-
-| **Package source:** | Source Tarball | Binary | Git |             Node             | Gem |
-| :-----------------: | :------------: | :----: | :-: | :--------------------------: | :-: |
-|     **Status:**     |      :x:       |  :x:   | :x: | :heavy_check_mark: (default) | :x: |
-
-</h3>
+<table>
+    <tr>
+        <td><b>Package source:</b></td>
+        <td>Source Tarball</td>
+        <td>Binary</td>
+        <td>Git</td>
+        <td>Node</td>
+        <td>Gem</td>
+    </tr>
+    <tr>
+        <td><b>Status:</b></td>
+        <td>❌</td>
+        <td>❌</td>
+        <td>❌</td>
+        <td>✔️ (default)</td>
+        <td>❌</td>
+    </tr>
+</table></h3>
 <p><img align="center" src="https://user-images.githubusercontent.com/59910950/172227617-7d87bb40-d2eb-456e-ade1-1627d515d7bf.png" alt="zi doctoc package" width="100%" height="auto" /></p>
-</td></tr></table></div>
+</td></tr></table><hr />
 
 ## Available `pack''` invocations
 
