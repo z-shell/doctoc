@@ -22,7 +22,6 @@
     "plugin-info": {
       "user": "z-shell",
       "plugin": "0",
-      "version": "2.1.0",
       "requires": "npm;bgn"
     },
     "zi-ices": {
