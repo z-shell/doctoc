@@ -52,7 +52,7 @@ zi lucid as=null node="!doctoc" sbin="n:node_modules/.bin/doctoc" for \
 
 > This repository compatible with [ZI](https://github.com/z-shell/zi)
 
-The [thlorenz/doctoc](https://github.com/thlorenz/doctoc) zsh package that can use the [zsh-string-lib](https://github.com/z-shell/zsh-string-lib) to automatically:
+The [thlorenz/doctoc](https://github.com/thlorenz/doctoc) zsh package. Zi's package support reads its `package.json` to automatically:
 
 - get the plugin's Git repository OR release-package URL,
 - get the list of the recommended ices for the plugin,
